@@ -16,7 +16,9 @@ A simple SwiftUI iOS application that retrieves real-time currency exchange rate
 - API Source: Frankfurter Exchange Rate API  
 
 ## Screenshots
-<img width="1206" height="2622" alt="screenshot" src="https://github.com/user-attachments/assets/b8b270a4-840c-4ceb-8d3a-297f16dff38a" />
+<p align="center">
+  <img src="IMAGE_LINK_HERE" width="300">
+</p>
 
 ## What I Learned
 - How to build a SwiftUI layout from scratch  

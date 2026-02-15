@@ -1,6 +1,10 @@
 # CurrencyBudget iOS App
-
 A simple SwiftUI iOS application that retrieves real-time currency exchange rates using the Frankfurter API and displays them in a clean, modern interface.
+
+## How to Run
+1. Open the project in Xcode  
+2. Select an iPhone simulator  
+3. Press Run ▶️
 
 ## Features
 - Fetches live exchange rate data from an external API  

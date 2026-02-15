@@ -15,9 +15,9 @@ A simple SwiftUI iOS application that retrieves real-time currency exchange rate
 - Networking: URLSession + async/await  
 - API Source: Frankfurter Exchange Rate API  
 
-## Screenshots
-
-![App Screenshot](./screenshot.png)
+## Screenshots<p align="center">
+  <img src="./screenshot.png" width="250">
+</p>
 
 ## What I Learned
 - How to build a SwiftUI layout from scratch  

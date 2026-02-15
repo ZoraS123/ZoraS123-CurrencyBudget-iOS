@@ -18,7 +18,7 @@ A simple SwiftUI iOS application that retrieves real-time currency exchange rate
 ## Screenshots
 ### Screenshots
 
-<img src="Screenshots/currencybudget.png" width="300" alt="CurrencyBudget app running in simulator">
+<img src="./Screenshots/currencybudget.png" width="300" alt="CurrencyBudget app running in simulator">
 
 ## What I Learned
 - How to build a SwiftUI layout from scratch  
